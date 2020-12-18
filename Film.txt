@@ -1,0 +1,19 @@
+{
+"title": "The social network",
+"summary": "On a fall night in 2003, Harvard undergrad and \n programming genius Mark Zuckerberg sits down at his \n computer and heatedly begins working on a new idea. (...)",
+"year": 2010,
+"director": {
+	"last_name": "Fincher",
+	"first_name": "David"
+	},
+"actors": [
+		{
+			"first_name": "Jesse",
+			"last_name": "Eisenberg"
+		},
+		{
+			"first_name": "Rooney",
+			"last_name": "Mara"
+		}
+		]
+}
